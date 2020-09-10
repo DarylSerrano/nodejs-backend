@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-backend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarylSerrano/nodejs-backend.git"
+  },
+  "author": "DarylSerrano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarylSerrano/nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/DarylSerrano/nodejs-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
